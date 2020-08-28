@@ -9,6 +9,6 @@ app.get('/', (req,res)=> {
 })
 
 app.listen(port , ()=> {
-    console.log(`startred at port ${port}`)
+    console.log(`startred at port $port`)
 })
 
