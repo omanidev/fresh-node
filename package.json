@@ -1,0 +1,14 @@
+{
+  "name": "fresh-node",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "az",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
